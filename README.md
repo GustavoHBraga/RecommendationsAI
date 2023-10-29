@@ -1,9 +1,9 @@
-# Projeto de Recomendações com IA Generativa
+# 🧬📊🛒 Projeto de Recomendações com IA Generativa 
 Este projeto consiste em uma aplicação que utiliza IA generativa para enviar recomendações de produtos com base nos perfis de compra de cada cliente
 
 <br>
 
-## Descrição dos Diretórios:
+## 📃 Descrição dos Diretórios:
 <ul>  <b>config/:</b> Contém as configurações para o envio de e-mails (EmailConfig.py) e a configuração da API OpenAI (OpenAIConfig.py).</ul>
 
 <ul> <b>exceptionHandler/:</b> Lida com exceções específicas da OpenAI (openai_exceptions.py).</ul>
@@ -15,7 +15,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 <br>
 
 
-# Configuração e Execução:
+# 📋 Configuração e Execução:
 
 ### Pré-requisitos:
 
@@ -43,7 +43,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 <br>
 
 
-# Execução
+# ✅Execução
 <p>1. Crie um arquivo .env na raiz do projeto e adicione as seguintes variáveis:</p>
 
 ```bash
