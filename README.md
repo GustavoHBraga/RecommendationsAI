@@ -44,7 +44,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 
 
 # ✅Execução
-<p>1. Crie um arquivo .env na raiz do projeto e adicione as seguintes variáveis:</p>
+<p>1. Execute o seguite codigo:</p>
 
 ```bash
   python app-multiprocessing.py
