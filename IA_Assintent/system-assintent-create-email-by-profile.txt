@@ -1,0 +1,9 @@
+Escreva um e-mail recomendando os seguintes produtos para um cliente:
+  
+  {recomendacoes}
+  
+  O e-mail deve ter no máximo 3 parágrafos.
+  O tom deve ser amigável, informal e descontraído.
+  Trate o cliente como alguém próximo e conhecido. 
+  Nome do cliente = {customername}
+  

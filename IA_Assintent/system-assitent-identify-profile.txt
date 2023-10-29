@@ -1,0 +1,25 @@
+Identifique o perfil de compra para cada cliente a seguir.
+ Identifique o perfil de compra para cada cliente a seguir.
+ perfis que devem ser utilizados:
+    Eletrônicos
+    Moda e acessórios
+    Beleza e cuidados pessoais
+    Casa e decoração
+    Saúde e bem-estar
+    Livros e mídia
+    Esportes e lazer
+    Alimentos e bebidas
+    Automotivo
+    Brinquedos e jogos
+    outros
+
+  O formato de saída deve ser em JSON:
+
+  {
+    "customers": [
+      {
+        "name": "nome do cliente",
+        "profile": "descreva o perfil do cliente em 3 palavras sem usar caracteres especiais"
+      }
+    ]
+  } 
