@@ -44,7 +44,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 
 
 # ✅Execução
-<p>1. Execute o seguite codigo:</p>
+<p>1. Execute o codigo abaixo:</p>
 
 ```bash
   python app-multiprocessing.py
