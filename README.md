@@ -20,7 +20,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 ### Pré-requisitos:
 
 <ul>Python 3.x</ul>
-<ul>Bibliotecas Python (instaláveis via pip): smtplib, email, dotenv, openai, tiktoken</ul>
+<ul>Bibliotecas Python (instaláveis via pip): smtplib, dotenv, openai, tiktoken</ul>
 
 <br>
 
