@@ -1,5 +1,17 @@
+
+
 # 🧬📊🛒 Projeto de Recomendações com IA Generativa 
 Este projeto consiste em uma aplicação que utiliza IA generativa para enviar recomendações de produtos com base nos perfis de compra de cada cliente
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Projeto de Recomendações com IA Generativa**
+| :label: Tecnologias | Python, FastAPI, Mysql, MariaDB, Async (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br](https://github.com/GustavoHBraga/RecommendationsAI
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![image](https://github.com/GustavoHBraga/RecommendationsAI/assets/70377322/8ee7cbf0-29d1-4c12-a71a-ecc58c9d0a73#vitrinedev)
 
 <br>
 
