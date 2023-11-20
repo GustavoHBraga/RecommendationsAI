@@ -6,7 +6,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto de Recomendações com IA Generativa**
-| :label: Tecnologias | Python, FastAPI, Mysql, MariaDB, Async (tecnologias utilizadas)
+| :label: Tecnologias | Python, OpenAi, SMTP (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br](https://github.com/GustavoHBraga/RecommendationsAI
 | :fire: Desafio     | 
 
