@@ -7,7 +7,7 @@ Este projeto consiste em uma aplicação que utiliza IA generativa para enviar r
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto de Recomendações com IA Generativa**
 | :label: Tecnologias | Python, OpenAi, SMTP (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br](https://github.com/GustavoHBraga/RecommendationsAI
+| :rocket: URL         | https://github.com/GustavoHBraga/RecommendationsAI
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
